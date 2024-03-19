@@ -7,7 +7,7 @@ The student course booking app is backed by Cloud Firestore and used Firebase Au
 
 ### Axel's contributions
 [Click here](https://github.com/AxelTWC/StudentCourseBookingApp/commits?author=AxelTWC)
-1. Creating validations for course input with regex using Kotlin.
+1. Creating validations for course input with regex using Kotlin in Android Studio.
 2. Creating UML diagram to ensure application is on par with requirements.
 3. [Click here for Group Project Report and check UML Diagram and Proof of Contribution if needed](https://github.com/AxelTWC/StudentCourseBookingApp/blob/master/Project%20Report%20Group%209.pdf)
 
